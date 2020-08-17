@@ -12,7 +12,7 @@
 
 - :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
 - :books: Graduated in Computer Science and currently doing a Postgraduate course for Full Stack Web Development
-- :lotus_position: meditation practitioner
+- :soccer: Love sports
 - :chocolate_bar: chocolate addicted
 
 =)
