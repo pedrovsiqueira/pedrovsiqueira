@@ -2,15 +2,15 @@
 
 ## :man_technologist: Pedro Siqueira
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/fabriciopolato/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciopolato@gmail.com)](mailto:fabriciopolato@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541997421886&text=Olá!)](https://api.whatsapp.com/send?phone=5517996784887&text=Olá!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/pedrovsiqueira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.siqueira@gmail.com)](mailto:fabriciopolato@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991664604&text=Olá!)](https://api.whatsapp.com/send?phone=5562991664604&text=Olá!)
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
 
 - :man_technologist: *FullStack* web developer.
-- :computer: ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST, GraphQL
-- :books: Former automation and control engineer in love with technology
+- :man_technologist: ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
+- :books: Graduated in Computer Science and currently doing a Postgraduate course for Full Stack Web Development
 - :lotus_position: meditation practitioner
 - :chocolate_bar: chocolate addicted
 
