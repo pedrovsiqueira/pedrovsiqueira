@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/pedrovsiqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.siqueira@gmail.com)](mailto:fabriciopolato@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991664604&text=Olá!)](https://api.whatsapp.com/send?phone=5562991664604&text=Olá!)
+[![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira/badges/micro)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrovsiqueira)](https://www.instagram.com/pedrovsiqueira) 
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
 
