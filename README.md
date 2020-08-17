@@ -8,6 +8,8 @@
 [![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira/badges/micro)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrovsiqueira)](https://www.instagram.com/pedrovsiqueira) 
 
+Checkout my portfolio: https://www.pedrosiqueira.com.br/
+
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
 
 - :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
