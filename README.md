@@ -16,7 +16,6 @@ Checkout my portfolio: https://www.pedrosiqueira.com.br/
 - :soccer: Love sports
 - :chocolate_bar: chocolate addicted
 
-=)
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
