@@ -1,0 +1,26 @@
+{
+  "name": "pedrovsiqueira",
+  "version": "1.0.0",
+  "description": "Pedro Siqueira, the person.",
+  "main": "./info.json",
+  "scripts": {
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "pedrovsiqueira": "./pedrovsiqueira.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Pedro Siqueira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrovsiqueira/pedrovsiqueira.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pedrovsiqueira/pedrovsiqueira/issues"
+  },
+  "homepage": "https://github.com/pedrovsiqueira/pedrovsiqueira#readme"
+}
