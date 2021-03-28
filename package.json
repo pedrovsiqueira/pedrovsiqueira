@@ -1,6 +1,6 @@
 {
   "name": "pedrovsiqueira",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pedro Siqueira, the person.",
   "main": "./info.json",
   "scripts": {
