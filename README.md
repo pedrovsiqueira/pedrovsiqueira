@@ -9,7 +9,6 @@
 Checkout my portfolio: https://www.pedrosiqueira.com.br/
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovsiqueira&layout=compact)
 
 - :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
 - :books: Graduated in Computer Science and currently doing a Postgraduate course for Full Stack Web Development
