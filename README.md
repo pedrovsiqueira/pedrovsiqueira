@@ -12,6 +12,13 @@ Bilingual IT professional with a Bachelor's degree in Computer Science and with 
 
 Being fascinated with applications, in 2020 I took on a new challenge where I became a web developer. During my training as a developer I had the opportunity to deepen my knowledge in languages ​​and technologies such as: Javascript, HTML, CSS, React, NodeJS, Java, Spring Boot, Express, MongoDB, Git, SCRUM, Design Thinking and Agile Methodologies.
 
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg alt="JavaScript Logo" width="50" height="50"/>
+
+---
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
 
 - :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
