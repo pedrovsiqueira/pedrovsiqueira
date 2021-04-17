@@ -16,9 +16,10 @@ Being fascinated with applications, in 2020 I took on a new challenge where I be
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/gitlab-1.svg" alt="Gitlab Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="50" height="50"/>
 
 ---
+
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
 
 - :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
