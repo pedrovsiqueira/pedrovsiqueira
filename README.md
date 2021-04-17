@@ -31,8 +31,3 @@ Being fascinated with applications, in 2020 I took on a new challenge where I be
 ---
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
-
-- :man_technologist: *FullStack* web developer with focus on ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
-- :books: Graduated in Computer Science and currently doing a Postgraduate course for Full Stack Web Development
-- :soccer: Love sports
-- :chocolate_bar: chocolate addicted
