@@ -10,7 +10,7 @@ Checkout my portfolio: https://www.pedrosiqueira.com.br/
 
 Bilingual IT professional with a Bachelor's degree in Computer Science and with almost 10 years of experience working in the industry, with knowledge in systems implementation and maintenance, technical support, infrastructure and improvements in the technological area.
 
-Being fascinated with applications, in 2020 I took on a new challenge where I became a web developer. During my training as a developer I had the opportunity to deepen my knowledge in languages ​​and technologies such as: Javascript, HTML, CSS, React, NodeJS, Java, Spring Boot, Express, MongoDB, Git, SCRUM, Design Thinking and Agile Methodologies.
+Currently working as a full stack developer at Cognyte with the following languages, tools and technologies: Javascript, HTML, CSS3, React, Java, Spring Boot, LESS, Git, Gitlab, SCRUM, Design Thinking and Agile Methodologies.
 
 ---
 
