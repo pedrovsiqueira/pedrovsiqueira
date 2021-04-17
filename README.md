@@ -1,4 +1,4 @@
-## :man_technologist: Pedro Siqueira
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pedro Siqueira
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/pedrovsiqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.siqueira@gmail.com)](mailto:pedro.v.siqueira@gmail.com)
