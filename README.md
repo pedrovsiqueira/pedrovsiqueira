@@ -7,8 +7,6 @@
 [![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira/badges/micro)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrovsiqueira)](https://www.instagram.com/pedrovsiqueira) 
 
-Checkout my portfolio: https://www.pedrosiqueira.com.br/
-
 Bilingual IT professional with a Bachelor's degree in Computer Science and with almost 10 years of experience working in the industry, with knowledge in systems implementation and maintenance, technical support, infrastructure and improvements in the technological area.
 
 Currently working as a full stack developer at Jobsity with the following languages, tools and technologies: Javascript, HTML, CSS3, React, Java, Spring Boot, LESS, Git, Gitlab, SCRUM, Design Thinking and Agile Methodologies.
