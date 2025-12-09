@@ -4,4 +4,4 @@
 
 [![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira/badges/micro)
 
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrovsiqueira&show_icons=true&theme=dracula)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrovsiqueira&label=Visitors&countColor=%23263759)
