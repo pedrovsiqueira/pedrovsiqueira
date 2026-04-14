@@ -10,7 +10,7 @@
 
 Bilingual IT professional with a Bachelor's degree in Computer Science and with 15 years of experience working in the industry, with knowledge in systems implementation and maintenance, technical support, infrastructure and improvements in the technological area.
 
-Currently working as a full stack developer at Jobsity with the following languages, tools and technologies: Javascript, HTML, CSS3, React, Java, Spring Boot, LESS, Git, Gitlab, SCRUM, Design Thinking and Agile Methodologies.
+Currently working as a full stack developer with the following languages, tools and technologies: Javascript, HTML, CSS3, React, Java, Spring Boot, LESS, Git, Gitlab, SCRUM, Design Thinking and Agile Methodologies.
 
 ---
 
