@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/pedrovsiqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.siqueira@gmail.com)](mailto:pedro.v.siqueira@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira/badges/micro)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrovsiqueira)](https://www.instagram.com/pedrovsiqueira) 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpedrovsiqueira&label=Visitors&countColor=%23263759)
 
 Bilingual IT professional with a Bachelor's degree in Computer Science and with 15 years of experience working in the industry, with knowledge in systems implementation and maintenance, technical support, infrastructure and improvements in the technological area.
