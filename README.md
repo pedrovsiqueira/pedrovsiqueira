@@ -3,7 +3,6 @@
 ---
 
 [![Website Badge](https://img.shields.io/badge/-Website-0f172a?style=flat-square&logo=google-chrome&logoColor=white)](https://www.pedrosiqueira.com.br/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovsiqueira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.v.siqueira@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pedrovsiqueira)
 [![Codewars Badge](https://www.codewars.com/users/pedrovsiqueira/badges/micro)](https://www.codewars.com/users/pedrovsiqueira)
@@ -88,6 +87,4 @@ If you would like to discuss a role, a product idea, or a technical partnership,
 
 - Website: https://www.pedrosiqueira.com.br/
 - Email: pedro.v.siqueira@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pedrovsiqueira/
 - GitHub: https://github.com/pedrovsiqueira
-- Instagram: https://www.instagram.com/pedrovsiqueira/
